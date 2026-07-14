@@ -110,7 +110,7 @@ nav ul li a{
     height: 60vh;
     margin-top: 9vh;
     background-color: rgb(255, 255, 255);
-    font-size: 13rem;
+    font-size: 12rem;
     font-weight: 700;
     padding-left: 1%;
     border-bottom: 1px solid black;
@@ -345,7 +345,7 @@ nav ul li a{
 }
 .skill .box{
     width: 33.3%;
-    height: 45vh;
+    height: 70vh;
     border: 1px solid black;
 }
 .skillinner h4{
@@ -568,6 +568,7 @@ nav ul li a{
     display: none;
 }
 .etcsub img{
+    width: 50%;
     padding: 1.5%;
 }
 .etcsub li video {
