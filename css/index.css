@@ -344,7 +344,7 @@ nav ul li a{
     display: flex;
 }
 .skill .box{
-    width: 25%;
+    width: 33.3%;
     height: 45vh;
     border: 1px solid black;
 }
